@@ -1,4 +1,6 @@
-
+# to test from console
+# m1<-makeCacheMatrix(mat)
+# cacheSolve(m1)
 ## this function cache the value of inverse matrix
 makeCacheMatrix <- function(x = matrix()) 
 {
